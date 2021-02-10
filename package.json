@@ -1,0 +1,24 @@
+{
+  "name": "threeboard-gauge",
+  "version": "1.0.0",
+  "description": "A gauge widget for Threeboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernietai/threeboard-widget-gauge.git"
+  },
+  "keywords": [
+    "threeboard",
+    "widget",
+    "gauge"
+  ],
+  "author": "Bernard Tai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernietai/threeboard-widget-gauge/issues"
+  },
+  "homepage": "https://github.com/bernietai/threeboard-widget-gauge#readme"
+}
