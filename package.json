@@ -1,5 +1,5 @@
 {
-  "name": "threeboard-gauge",
+  "name": "threeboard-contrib-widget-gauge",
   "version": "1.0.0",
   "description": "A gauge widget for Threeboard",
   "main": "index.js",
